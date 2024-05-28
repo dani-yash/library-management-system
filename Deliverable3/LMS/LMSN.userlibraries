@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javacsv">
+    <archive path="D:/Downloads/Documents/LMSN/Library-Management-System21/lib/javacsv.jar" />
+  </library>
+  <library name="._javacsv">
+    <archive path="D:/Downloads/Documents/LMSN/__MACOSX/Library-Management-System21/lib/._javacsv.jar" />
+  </library>
+</eclipse-userlibraries>
+
